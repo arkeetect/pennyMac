@@ -1,3 +1,10 @@
+# About this app
+A prototype solution for coding challenge that fetches list of tv shows from tvMaze api site and displays them
+in a CSS Grid.  A combination of Grid layout and Flexbox is also attempted.
+Also, icons used from Font Awesome CDN.
+
+App.css has the grid layout selectors
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
